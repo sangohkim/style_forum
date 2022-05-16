@@ -3,7 +3,7 @@ SPARCS 2022 Spring Newbie Project by Alvin(Kim Sang-oh)
 
 <Scenario>
 1. Sign up if not signed up yet  
-- It's mandatory to check gender, age, career  
+It's mandatory to check gender, age, career  
   
 2. Sign in  
   
