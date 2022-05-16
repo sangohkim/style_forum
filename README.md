@@ -16,11 +16,11 @@ It's mandatory to check gender, age, career
 - Flutter, Firebase  
 
 2. Sign in
-- Required: Sign in technology
+- Required: Sign in technology  
 - Flutter, Firebase
 
 3. User will check ongoing votes
-- Required: ?????
+- Required: Firebase(?)
 - Votes will be saved for few days
 
 4. User will express his/her opinion by clicking like/dislike
